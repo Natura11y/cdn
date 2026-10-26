@@ -1,8 +1,8 @@
 @font-face {
     font-family: "natura11y-icons";
-    src: url("./natura11y-icons.ttf?918f342de9521107994fbd926418ca9f") format("truetype"),
-url("./natura11y-icons.woff2?918f342de9521107994fbd926418ca9f") format("woff2"),
-url("./natura11y-icons.woff?918f342de9521107994fbd926418ca9f") format("woff");
+    src: url("./natura11y-icons.ttf?505bb7bbca36cd257f58005920ce96c8") format("truetype"),
+url("./natura11y-icons.woff2?505bb7bbca36cd257f58005920ce96c8") format("woff2"),
+url("./natura11y-icons.woff?505bb7bbca36cd257f58005920ce96c8") format("woff");
 }
 
 .icon:before {
@@ -342,4 +342,64 @@ url("./natura11y-icons.woff?918f342de9521107994fbd926418ca9f") format("woff");
 }
 .icon.icon-page:before {
     content: "\f16d";
+}
+.icon.icon-medium:before {
+    content: "\f16e";
+}
+.icon.icon-arrow-up-right:before {
+    content: "\f16f";
+}
+.icon.icon-arrow-down-right:before {
+    content: "\f170";
+}
+.icon.icon-arrow-down-left:before {
+    content: "\f171";
+}
+.icon.icon-arrow-up-left:before {
+    content: "\f172";
+}
+.icon.icon-threads:before {
+    content: "\f173";
+}
+.icon.icon-pinterest:before {
+    content: "\f174";
+}
+.icon.icon-mastodon:before {
+    content: "\f175";
+}
+.icon.icon-whatsapp:before {
+    content: "\f176";
+}
+.icon.icon-discord:before {
+    content: "\f177";
+}
+.icon.icon-filter:before {
+    content: "\f178";
+}
+.icon.icon-refresh:before {
+    content: "\f179";
+}
+.icon.icon-ferry:before {
+    content: "\f17a";
+}
+.icon.icon-bus:before {
+    content: "\f17b";
+}
+.icon.icon-copy:before {
+    content: "\f17c";
+}
+.icon.icon-spotify:before {
+    content: "\f17d";
+}
+.icon.icon-vimeo:before {
+    content: "\f17e";
+}
+.icon.icon-reddit:before {
+    content: "\f17f";
+}
+.icon.icon-telegram:before {
+    content: "\f180";
+}
+.icon.icon-substack:before {
+    content: "\f181";
 }

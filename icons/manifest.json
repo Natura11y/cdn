@@ -1,27 +1,27 @@
 {
   "package": "@natura11y/icons",
-  "version": "2.3.0",
-  "tag": "icons-2.3.0",
+  "version": "3.0.0",
+  "tag": "icons-3.0.0",
   "files": {
     "natura11y-icons.css": {
-      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.css",
-      "integrity": "sha384-XxMduDXMaj945O2j1b/k/twJu2Q8sZRs2EG6c37m9fWP35rLQ6tHAo8Sg0xrMsoq"
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-3.0.0/icons/natura11y-icons.css",
+      "integrity": "sha384-vvExi6GOxbc0BWzQeeHi6z0pFipi2cRRYfhmEFGq5brcBGgBBzF6zYckGavhb7ia"
     },
     "natura11y-icons.min.css": {
-      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.min.css",
-      "integrity": "sha384-anLBIy2SKCYgyQByX0JtRt+x9SI/FWO4iZIMj2LlKqvvsSKeoOeMWXu1JrJU+b4V"
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-3.0.0/icons/natura11y-icons.min.css",
+      "integrity": "sha384-8ummAJtcYF+a7QcVkASkHVRkfOCl1LD7Ga/r7gwGpW+yJ7iaSXAHzT/c12H4cykk"
     },
     "natura11y-icons.ttf": {
-      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.ttf",
-      "integrity": "sha384-I8J8wiRJ+xZZZtMYh4tdjh2o5HFX6lSusejOW0DY9pme2PqtoNiZh63cYnuyBtjB"
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-3.0.0/icons/natura11y-icons.ttf",
+      "integrity": "sha384-pwdr251Jc6PpeWZw8UTH+KnEYKiKIp+aH84Z+Vr0GzDdw/KmewaOOD7AvtdfydYr"
     },
     "natura11y-icons.woff": {
-      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.woff",
-      "integrity": "sha384-nmsYqmkTPmeo0QjrlutSCKxSaGZasKeUPyI8dIanaKl1hctSEaM9+4LXHHCmqTYS"
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-3.0.0/icons/natura11y-icons.woff",
+      "integrity": "sha384-raOMbdy5XNO2Fab7iEeOIHE5YyrGPec72Yebtsa11jm9wyelfrV3SUss4Frn+TMl"
     },
     "natura11y-icons.woff2": {
-      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.woff2",
-      "integrity": "sha384-FeVAIAQBJ/5pEv90S/VIqf4ISpavj6oL/LcGGh6QLIc1d+DGoiTYXv+1OKBqNk1Q"
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-3.0.0/icons/natura11y-icons.woff2",
+      "integrity": "sha384-A6U34g/oN7xwufh1YwhJzL/98eAreF+kC3gZxxy0Tpe9xaQSlHhCbMJyK4Yp1rMB"
     }
   }
 }
