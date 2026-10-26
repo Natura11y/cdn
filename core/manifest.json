@@ -1,0 +1,15 @@
+{
+  "package": "@natura11y/core",
+  "version": "5.2.6",
+  "tag": "core-5.2.6",
+  "files": {
+    "natura11y.css": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@core-5.2.6/core/natura11y.css",
+      "integrity": "sha384-Xrl4AyDWvteCd2VNU/nsFyPI8hqdEnf+dVgn01PuknfyKhZiCbKTjgeFk63e7SXO"
+    },
+    "natura11y.js": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@core-5.2.6/core/natura11y.js",
+      "integrity": "sha384-T7GO79KGJhPkl6IgWeLPiv6MjEIzxvc8kDXghrFCMwAGVUbEJ2aa8A+DOrTvflOw"
+    }
+  }
+}

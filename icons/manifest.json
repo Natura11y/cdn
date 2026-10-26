@@ -1,0 +1,27 @@
+{
+  "package": "@natura11y/icons",
+  "version": "2.3.0",
+  "tag": "icons-2.3.0",
+  "files": {
+    "natura11y-icons.css": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.css",
+      "integrity": "sha384-XxMduDXMaj945O2j1b/k/twJu2Q8sZRs2EG6c37m9fWP35rLQ6tHAo8Sg0xrMsoq"
+    },
+    "natura11y-icons.min.css": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.min.css",
+      "integrity": "sha384-anLBIy2SKCYgyQByX0JtRt+x9SI/FWO4iZIMj2LlKqvvsSKeoOeMWXu1JrJU+b4V"
+    },
+    "natura11y-icons.ttf": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.ttf",
+      "integrity": "sha384-I8J8wiRJ+xZZZtMYh4tdjh2o5HFX6lSusejOW0DY9pme2PqtoNiZh63cYnuyBtjB"
+    },
+    "natura11y-icons.woff": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.woff",
+      "integrity": "sha384-nmsYqmkTPmeo0QjrlutSCKxSaGZasKeUPyI8dIanaKl1hctSEaM9+4LXHHCmqTYS"
+    },
+    "natura11y-icons.woff2": {
+      "url": "https://cdn.jsdelivr.net/gh/Natura11y/cdn@icons-2.3.0/icons/natura11y-icons.woff2",
+      "integrity": "sha384-FeVAIAQBJ/5pEv90S/VIqf4ISpavj6oL/LcGGh6QLIc1d+DGoiTYXv+1OKBqNk1Q"
+    }
+  }
+}
